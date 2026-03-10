@@ -17,7 +17,7 @@ Features:
 Running the Project
 1. Clone the repository:
 
-git clone https://github.com/your-username/geoask.git
+git clone https://github.com/emola99/GeoASK
 
 2. Open the project in Android Studio.
 3. Add your Google Maps API key to AndroidManifest.xml.
@@ -42,7 +42,7 @@ Uruchomienie projektu
 
 1. Sklonuj repozytorium:
 
-git clone https://github.com/nazwa-uzytkownika/geoask.git
+git clone https://github.com/emola99/GeoASK
 
 2. Otwórz projekt w Android Studio.
 3. Dodaj własny klucz Google Maps API w pliku AndroidManifest.xml.
